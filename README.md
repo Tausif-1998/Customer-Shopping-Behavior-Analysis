@@ -79,15 +79,6 @@ The goal was to identify **key behavioral patterns**, such as the impact of **di
 - Business analysis report (`.pdf`)  
 - Complete GitHub documentation (`README.md`)  
 
----
-
-## 📂 Repository Structure  
-├── data/ # Raw and cleaned datasets
-├── notebooks/ # Python notebooks for preprocessing
-├── sql/ # SQL scripts for analysis
-├── dashboard/ # Power BI .pbix file
-├── reports/ # Project reports and PDFs
-└── README.md # Project documentation
 
 
 ---
